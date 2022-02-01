@@ -1,2 +1,2 @@
-# Hang-Man
-Hang man game
+# Hangman
+A hangman game in python using pygame
